@@ -1,7 +1,8 @@
 # install 
 
 - pkg update && pkg upgrade
-- pkg install python
+- pkg install python python2
+- pkg install sl
 - pkg install git
 - git clone https://github.com/MR-Xyaa/yntkts
 - cd yntkts
@@ -10,3 +11,4 @@
 # username & password
 - MR
 - Xyaa
+###########################
