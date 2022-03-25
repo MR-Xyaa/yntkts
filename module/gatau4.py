@@ -10,3 +10,9 @@ def mengetik(s):
 #ubah angka 0.1 sesuai keinginan kamu
 #angka terkecil adalah yang paling cepat
 #angka terbesar adalah yang paling lambat
+
+mengetik('{●]▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪[●]')
+mengetik('_■   [•]Author____: MR-Xyaa ')    
+mengetik('_■   [•]Github____: https://github.com/MR-Xyaa')    
+mengetik('_■   [•]Facebook__: Xyaa Xyaab')       
+mengetik('{●]▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪[●]') 
