@@ -27,4 +27,38 @@ clear
 
 python gatau6.py
 
-
+sl
+clear
+sl
+clear
+sl
+clear
+sl
+clear
+sl
+clear
+sl
+clear
+sl
+clear
+sl
+clear
+sl
+clear
+sl
+clear
+sl
+clear
+sl
+clear
+sl
+clear
+sl
+clear
+sl
+clear
+sl
+clear
+sl
+clear
+sl
