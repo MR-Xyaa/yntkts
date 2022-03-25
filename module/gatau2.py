@@ -21,4 +21,4 @@ mengetik('installing bangbross.')
 mengetik('installing simontok...')
 mengetik('installing xnxx.com.')
 mengetik('selesai')
-type:dah anjing
+time:25-3-2022
