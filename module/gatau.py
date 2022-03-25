@@ -15,6 +15,14 @@ mengetik('username:MR-Xyaa')
 mengetik('password:×××××××')
 mengetik('login berhasil...')
 
+clear
+
+def mengetik(s):
+    for c in s + '\n':
+        sys.stdout.write(c)
+        sys.stdout.flush()
+#kecepatan mengetik
+        time.sleep(random.random() * 0.1)
 
 mengetik('hallo wellcome to my github MR.Xyaa.')
 mengetik('apa lu anjing.')
@@ -34,3 +42,76 @@ mengetik('{●]▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪�
 
 mengetik('GW MASIH BELAJAR ANJING')
 mengetik('MR-Xyaa')
+
+
+def mengetik(s):
+    for c in s + '\n':
+        sys.stdout.write(c)
+        sys.stdout.flush()
+#kecepatan mengetik
+        time.sleep(random.random() * 0.01)
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+mengetik('Lopyu')
+
+
+def mengetik(s):
+    for c in s + '\n':
+        sys.stdout.write(c)
+        sys.stdout.flush()
+#kecepatan mengetik
+        time.sleep(random.random() * 0.5)
+mengetik('A N J A Y')
+mengetik('bay')
