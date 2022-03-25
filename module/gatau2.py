@@ -1,3 +1,5 @@
+#!/system/xbin/bash
+
 import random
 import sys
 import time
