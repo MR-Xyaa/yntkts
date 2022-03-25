@@ -1,5 +1,5 @@
 #!/system/xbin/bash
 
-module
+cd module
 
 python gatau.py
