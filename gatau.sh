@@ -23,4 +23,6 @@ python gatau5.py
 
 clear
 
-python gatau.py
+python gatau6.py
+
+
