@@ -7,3 +7,6 @@
 - cd yntkts
 - git pull
 - sh gatau.sh
+# username & password
+- MR
+- Xyaa
