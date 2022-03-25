@@ -1,4 +1,4 @@
-#!/usr/bin
+#!/system/xbin/bash
 
 module
 
