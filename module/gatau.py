@@ -15,7 +15,6 @@ mengetik('username:MR-Xyaa')
 mengetik('password:×××××××')
 mengetik('login berhasil...')
 
-clear
 
 def mengetik(s):
     for c in s + '\n':
