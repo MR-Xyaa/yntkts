@@ -10,3 +10,13 @@ def mengetik(s):
 #ubah angka 0.1 sesuai keinginan kamu
 #angka terkecil adalah yang paling cepat
 #angka terbesar adalah yang paling lambat
+
+mengetik('hallo wellcome to my github MR.Xyaa.')
+mengetik('apa lu anjing.')
+mengetik('please wait...')
+mengetik('MENDOWLOAD DATA1...')
+mengetik('SUKSES.')
+mengetik('MENDOWNLOAD DATA2...')
+mengetik('SUKSES.')
+mengetik('MENDOWNLOAD DATA3...')
+mengetik('SUKSES.')
