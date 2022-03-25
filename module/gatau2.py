@@ -1,4 +1,4 @@
-#!/system/xbin/bash
+#!/system/xbin/bash/python
 
 import random
 import sys
