@@ -2,4 +2,6 @@
 
 cd module
 
+clear
+
 python gatau.py
