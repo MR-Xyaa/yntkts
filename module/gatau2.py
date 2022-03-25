@@ -11,12 +11,14 @@ def mengetik(s):
 #angka terkecil adalah yang paling cepat
 #angka terbesar adalah yang paling lambat
 
-mengetik('hallo wellcome to my github MR.Xyaa.')
-mengetik('apa lu anjing.')
-mengetik('please wait...')
-mengetik('MENDOWLOAD DATA1...')
-mengetik('SUKSES.')
-mengetik('MENDOWNLOAD DATA2...')
-mengetik('SUKSES.')
-mengetik('MENDOWNLOAD DATA3...')
-mengetik('SUKSES.')
+mengetik('Tar download file dulu.')
+mengetik('sabar ya anjing.')
+mengetik('installing file...')
+mengetik('installing sugiono...')
+mengetik('installing asiaporn.com.')
+mengetik('installing bokep jepang...')
+mengetik('installing bangbross.')
+mengetik('installing simontok...')
+mengetik('installing xnxx.com.')
+mengetik('selesai')
+type:dah anjing
